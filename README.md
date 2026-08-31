@@ -22,38 +22,16 @@ Halo, perkenalkan nama saya **Fari** (biasa dipanggil **Fari Ajah**). Saya sedan
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=6fari9&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6fari9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6fari9&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Social Media & Links
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.instagram.com/farinandaa_?igsi=ZWdnMnR3bHF1bjVm&utm_source=qr"><img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-> *Ganti tautan `#` di atas dengan link asli akun/portofolio kamu kalau sudah punya.*
-
----
 
 ### ✨ Fun Fact
 
-- 💻 Percaya bahwa developer terbaik adalah yang tidak pernah berhenti belajar.
-- ☕ Sering ngoding sambil ditemani kopi/teh.
-- 🌱 Sedang dalam perjalanan dari pemula menuju web developer yang handal.
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+- Tinggal Di Belakang Padang Pulau terpencil.
+- Sering ngoding sambil ditemani kopi/teh.
 
 ---
 
